@@ -4,3 +4,6 @@
     object-fit: cover;
     
         }
+.col-12.col-md img{
+    width: 25%;
+}
